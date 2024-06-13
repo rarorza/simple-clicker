@@ -1,1 +1,8 @@
 venv/
+build/
+dist/
+.DirIcon
+AppRun
+main.spec
+simple-clicker.desktop
+simple-clicker.ico.png
