@@ -6,3 +6,5 @@
 
 2 - Run:
 `$ python ./main.py`
+
+3 - Optionally you can build an executable file with the shell script `build_executable.sh`
